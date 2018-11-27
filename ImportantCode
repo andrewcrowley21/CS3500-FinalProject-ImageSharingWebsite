@@ -1,6 +1,6 @@
 <?php require_once('config.php'); ?> 
 
-
+/////////////////////////////////////////////might need to change head title depending on what webpage your're working on////////////////////
 <!DOCTYPE html>
 <html lang="en">
 
